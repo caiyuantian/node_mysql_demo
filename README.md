@@ -1,5 +1,5 @@
 # node_mysql_demo
-A most simple node, express and mysql demo
+A simplest node, express and mysql demo
 
 1. Create Mysql database with table user  
     table definition:  
